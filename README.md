@@ -26,12 +26,12 @@ Follow these steps to set up the project locally:
 
 3. **Install dependencies:**
    ```bash
-   npm install  # or yarn install
+   npm install or yarn install
    ```
    
 4. **Run the application:**
    ````bash
-   npm start  # or other project-specific command
+   npm start  or other project-specific command
    ````
 
 
