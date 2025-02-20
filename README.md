@@ -22,9 +22,8 @@ Fork the Repository
 
 1. Clone Your Fork
 
-```bash
 Copy
-git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
+```git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git```
  
 2. Create a Branch
 bash
