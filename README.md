@@ -18,22 +18,24 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
    ```
+   
 2. **Navigate to the project directory:**
+   ```bash
+   cd quarter-real-estate-app
+   ```
 
-```bash
-cd quarter-real-estate-app
-```
+3. **Install dependencies:**
+   ```bash
+   npm install  # or yarn install
+   ```
+   
+4. **Run the application:**
+   ````bash
+   npm start  # or other project-specific command
+   ````
 
-3. ** Install dependencies: **
 
-```bash
-npm install  # or yarn install
-```
-Run the application:
 
-bash
-Copy
-npm start  # or other project-specific command
 Contributing
 We welcome contributions! Here’s how to get started:
 
