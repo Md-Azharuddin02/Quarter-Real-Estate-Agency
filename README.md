@@ -41,54 +41,51 @@ Follow these steps to set up the project locally:
 
 We welcome contributions! Here’s how to get started:
 
-1. Fork the Repository
-Click the "Fork" button at the top-right of the original repository.
+1. **Fork the Repository
+   Click the "Fork" button at the top-right of the original repository.
+2. **Clone Your Fork:**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/quarter-real-estate-app.git
+   cd quarter-real-estate-app
+   ```
+3. **Sync with Upstream:**
+   ```bash
+   git remote add upstream https://github.com/quarter-real-estate/quarter-real-estate-app.git
+   git fetch upstream
+   git merge upstream/main
+   ```
+4. **Create a Feature Branch:**
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+6. **Make Your Changes:**
+   Follow the project’s coding standards.
 
-2. Clone Your Fork
-bash
-Copy
-git clone https://github.com/YOUR-USERNAME/quarter-real-estate-app.git
-cd quarter-real-estate-app
-3. Sync with Upstream (Optional)
-bash
-Copy
-git remote add upstream https://github.com/quarter-real-estate/quarter-real-estate-app.git
-git fetch upstream
-git merge upstream/main
-4. Create a Feature Branch
-bash
-Copy
-git checkout -b feature/your-feature-name
-5. Make Your Changes
-Follow the project’s coding standards.
+7. **Test your changes thoroughly.**
 
-Test your changes thoroughly.
+8. **Commit and Push:**
+   ```bash
+   git add .
+   git commit -m "feat: add your feature description"
+   git push origin feature/your-feature-name
+   
+7. **Create a Pull Request:**
+   Go to the Pull Requests page of the original repository.
+   Click "New Pull Request".
+   
+8. **Set: Base repository:**
+   ```bash
+   quarter-real-estate/quarter-real-estate-app (main branch)
+   ```
+9. Head repository:
+    ```bash
+   YOUR-USERNAME/quarter-real-estate-app (your feature branch)
+    ```
 
-6. Commit and Push
-bash
-Copy
-git add .
-git commit -m "feat: add your feature description"
-git push origin feature/your-feature-name
-7. Create a Pull Request
-Go to the Pull Requests page of the original repository.
+10. **Add a clear title and description of your changes.**
 
-Click "New Pull Request".
+**Submit the PR for review.**
 
-Set:
+**Note:** Keep your fork updated regularly with the upstream repository:
 
-Base repository: quarter-real-estate/quarter-real-estate-app (main branch)
-
-Head repository: YOUR-USERNAME/quarter-real-estate-app (your feature branch)
-
-Add a clear title and description of your changes.
-
-Submit the PR for review.
-
-Note: Keep your fork updated regularly with the upstream repository:
-
-bash
-Copy
-git fetch upstream
-git merge upstream/main
 Thank you for contributing! 🚀
