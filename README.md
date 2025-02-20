@@ -10,33 +10,41 @@ Quarter Real Estate Agency’s repository powers a responsive web application fo
 - **Analytics**: Track market trends, user engagement, and sales performance.  
 - **Mobile-First Design**: Optimized for all devices.  
 
-Getting Started
 
-### Installation  
-1. Clone the repo:  
-   ```bash  
-   git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git    
+# Getting Started
 
+### Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
 
+How to Contribute
 Fork the Repository
+Click the "Fork" button at the top-right of this repository
 
-1. Clone Your Fork
+Clone Your Fork
+git clone https://github.com/YOUR-USERNAME/quarter-real-estate-app.git
+cd quarter-real-estate-app
 
-Copy
-``` bash git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git```
- 
-2. Create a Branch
-bash
-Copy
+Create a Branch
 git checkout -b feature/your-feature-name
-Make Changes
 
-3. Commit Your Changes
-bash
-Copy
+Make Changes
+Make your code changes
+Follow project coding standards
+git add .
 git commit -m "Add some feature"
 
-4. Push to Your Fork
-bash
-Copy
+
+Push to Your Fork
 git push origin feature/your-feature-name
+
+
+Create Pull Request
+Go to the original repository
+
+Click "New Pull Request"
+Compare changes between the original repo and your fork
+Submit the PR with a clear description
+
+
