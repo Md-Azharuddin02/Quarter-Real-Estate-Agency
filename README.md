@@ -36,7 +36,9 @@ Follow these steps to set up the project locally:
 
 
 
-Contributing
+## Contributing
+
+
 We welcome contributions! Here’s how to get started:
 
 1. Fork the Repository
