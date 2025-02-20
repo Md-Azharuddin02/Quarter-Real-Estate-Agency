@@ -10,18 +10,19 @@ Quarter Real Estate Agency’s repository powers a responsive web application fo
 - **Analytics**: Track market trends, user engagement, and sales performance.  
 - **Mobile-First Design**: Optimized for all devices.  
 
+Getting Started
+
 ### Installation  
 1. Clone the repo:  
    ```bash  
    git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git    
 
 
-Getting Started
 Fork the Repository
 
 1. Clone Your Fork
 
-bash
+```bash
 Copy
 git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
  
