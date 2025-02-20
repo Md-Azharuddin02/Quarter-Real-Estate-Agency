@@ -18,10 +18,9 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
    ```
-2. ** Navigate to the project directory: **
+2. **Navigate to the project directory:**
 
 ```bash
-Copy
 cd quarter-real-estate-app
 ```
 
