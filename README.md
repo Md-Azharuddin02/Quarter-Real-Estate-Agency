@@ -10,47 +10,79 @@ Quarter Real Estate Agency’s repository powers a responsive web application fo
 - **Analytics**: Track market trends, user engagement, and sales performance.  
 - **Mobile-First Design**: Optimized for all devices.  
 
+## Installation
 
-### Getting Started
+Follow these steps to set up the project locally:
 
-### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
-```
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
+Navigate to the project directory:
 
-2.How to Contribute
-Fork the Repository
-Click the "Fork" button at the top-right of this repository
+bash
+Copy
+cd quarter-real-estate-app
+Install dependencies (if applicable):
 
-##Clone Your Fork
-```bash
+bash
+Copy
+npm install  # or yarn install
+Run the application:
+
+bash
+Copy
+npm start  # or other project-specific command
+Contributing
+We welcome contributions! Here’s how to get started:
+
+1. Fork the Repository
+Click the "Fork" button at the top-right of the original repository.
+
+2. Clone Your Fork
+bash
+Copy
 git clone https://github.com/YOUR-USERNAME/quarter-real-estate-app.git
 cd quarter-real-estate-app
-```
-
-##Create a Branch
-```bash
+3. Sync with Upstream (Optional)
+bash
+Copy
+git remote add upstream https://github.com/quarter-real-estate/quarter-real-estate-app.git
+git fetch upstream
+git merge upstream/main
+4. Create a Feature Branch
+bash
+Copy
 git checkout -b feature/your-feature-name
-```
+5. Make Your Changes
+Follow the project’s coding standards.
 
-##Make Changes
-#Make your code changes
-#Follow project coding standards
-```bash
+Test your changes thoroughly.
+
+6. Commit and Push
+bash
+Copy
 git add .
-git commit -m "Add some feature"
-```
-
-##Push to Your Fork
-```bash
+git commit -m "feat: add your feature description"
 git push origin feature/your-feature-name
-```
+7. Create a Pull Request
+Go to the Pull Requests page of the original repository.
 
-##Create Pull Request
-#Go to the original repository
-#Click "New Pull Request"
-#Compare changes between the original repo and your fork
-#Submit the PR with a clear description
+Click "New Pull Request".
 
+Set:
 
+Base repository: quarter-real-estate/quarter-real-estate-app (main branch)
+
+Head repository: YOUR-USERNAME/quarter-real-estate-app (your feature branch)
+
+Add a clear title and description of your changes.
+
+Submit the PR for review.
+
+Note: Keep your fork updated regularly with the upstream repository:
+
+bash
+Copy
+git fetch upstream
+git merge upstream/main
+Thank you for contributing! 🚀
