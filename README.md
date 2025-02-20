@@ -26,12 +26,12 @@ Follow these steps to set up the project locally:
 
 3. **Install dependencies:**
    ```bash
-   npm install  # or yarn install
+   npm install or yarn install
    ```
    
 4. **Run the application:**
    ````bash
-   npm start  # or other project-specific command
+   npm run dev
    ````
 
 
@@ -41,7 +41,7 @@ Follow these steps to set up the project locally:
 
 We welcome contributions! Here’s how to get started:
 
-1. **Fork the Repository
+1. **Fork the Repository**
    Click the "Fork" button at the top-right of the original repository.
 2. **Clone Your Fork:**
    ```bash
@@ -88,4 +88,4 @@ We welcome contributions! Here’s how to get started:
 
 **Note:** Keep your fork updated regularly with the upstream repository:
 
-Thank you for contributing! 🚀
+**Thank you for contributing! 🚀**
