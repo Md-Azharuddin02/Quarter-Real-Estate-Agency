@@ -19,9 +19,9 @@ Quarter Real Estate Agency’s repository powers a responsive web application fo
 git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
 ```
 
-###How to Contribute
-#Fork the Repository
-#Click the "Fork" button at the top-right of this repository
+2.How to Contribute
+Fork the Repository
+Click the "Fork" button at the top-right of this repository
 
 ##Clone Your Fork
 ```bash
