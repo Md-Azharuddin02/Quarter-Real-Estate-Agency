@@ -14,3 +14,29 @@ Quarter Real Estate Agency’s repository powers a responsive web application fo
 1. Clone the repo:  
    ```bash  
    git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git    
+
+
+Getting Started
+Fork the Repository
+
+1. Clone Your Fork
+
+bash
+Copy
+git clone https://github.com/quarter-real-estate/quarter-real-estate-app.git
+ 
+2. Create a Branch
+bash
+Copy
+git checkout -b feature/your-feature-name
+Make Changes
+
+3. Commit Your Changes
+bash
+Copy
+git commit -m "Add some feature"
+
+4. Push to Your Fork
+bash
+Copy
+git push origin feature/your-feature-name
